@@ -32,8 +32,8 @@ Arch                        3.5.1           Rolling    https://www.archlinux.org
 
 Windows XP, Vista, 7        2.7.5           Secret
 
-FreeBSD 8.4                                 2015-06-30
-FreeBSD 9.1                 2.7.3           2014-12-31
+FreeBSD 9.3                                 2016-12-31
+FreeBSD 10.1                 2.7.11           2016-12-31    https://www.freebsd.org/cgi/ports.cgi?query=python&stype=name&sektion=all
 
 Haiku R1 Alpha 4            2.6.8           Not yet released
 Open Indiana Alpha 151a8    2.6.4           Not yet released
