@@ -23,7 +23,8 @@ RHEL 6  2.6.6               2.6.6           2020-11-30    https://en.wikipedia.o
 Centos 5                    2.4.3           2017-03-31    https://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux#Product_life_cycle
 Centos 6                    2.6.6           2020-11-30    https://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux#Product_life_cycle
 
-openSUSE 12.02              2.7.3           2014-03
+openSUSE 13.01              ?           2016-11
+openSUSE 14.02              ?           2018-11
 
 Gentoo                      2.7.5           Rolling
 Arch                        2.7.5           Rolling
