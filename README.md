@@ -15,9 +15,8 @@ Ubuntu 16.04 LTS            2.7.11          2021-04    http://packages.ubuntu.co
 Debian 7.0 Wheezy           2.7.3           2018-05    https://packages.debian.org/wheezy/python
 Debian 8.0 Jessie           2.7.9           2020-05    https://packages.debian.org/jessie/python
 
-Fedora 18                   2.7.3           2014-2
-Fedora 19                   2.7.5           2014-8
-Fedora 20                   2.7.3           2015-10
+Fedora 22                   2.7.10          2016-07    https://apps.fedoraproject.org/packages/python
+Fedora 23                   2.7.10          2016-12    https://apps.fedoraproject.org/packages/python
 
 Red Hat Enterprise Linux 5                  2020
 Red Hat Enterprise Linux 6                  2023
@@ -42,7 +41,8 @@ http://en.wikipedia.org/wiki/Ubuntu_%28operating_system%29#Releases
 
 https://en.wikipedia.org/wiki/List_of_Debian_releases#Release_table
 
-http://en.wikipedia.org/wiki/Fedora_%28operating_system%29#Version_history
+https://en.wikipedia.org/wiki/List_of_Fedora_releases#Version_history
+https://fedoraproject.org/wiki/Fedora_Release_Life_Cycle#Maintenance_Schedule
 
 http://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux#Life-cycle_dates
 
