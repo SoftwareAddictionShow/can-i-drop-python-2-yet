@@ -28,7 +28,7 @@ openSUSE 14.02              ?           2018-11
 openSUSE Tumble Weed        2.7.11       Rolling
 
 Gentoo                      2.7.11           Rolling    https://www.gentoo.org/support/news-items/2015-07-25-python-targets.html
-Arch                        2.7.5           Rolling
+Arch                        3.5.1           Rolling    https://www.archlinux.org/packages/?sort=&q=python&maintainer=&flagged=
 
 Windows XP, Vista, 7        2.7.5           Secret
 
