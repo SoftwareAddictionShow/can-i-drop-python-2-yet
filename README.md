@@ -25,6 +25,7 @@ Centos 6                    2.6.6           2020-11-30    https://en.wikipedia.o
 
 openSUSE 13.01              ?           2016-11
 openSUSE 14.02              ?           2018-11
+openSUSE Tumble Weed        2.7.11       Rolling
 
 Gentoo                      2.7.11           Rolling    https://www.gentoo.org/support/news-items/2015-07-25-python-targets.html
 Arch                        2.7.5           Rolling
