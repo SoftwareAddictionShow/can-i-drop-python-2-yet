@@ -18,10 +18,10 @@ Debian 8.0 Jessie           2.7.9           2020-05    https://packages.debian.o
 Fedora 22                   2.7.10          2016-07    https://apps.fedoraproject.org/packages/python
 Fedora 23                   2.7.10          2016-12    https://apps.fedoraproject.org/packages/python
 
-Red Hat Enterprise Linux 5                  2020
-Red Hat Enterprise Linux 6                  2023
-Centos 5                    2.4.3           2017-03-31
-Centos 6                    2.6.6           2020-11-30
+RHEL 5  2.4.3               2.4.3           2017-03-31    https://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux#Product_life_cycle
+RHEL 6  2.6.6               2.6.6           2020-11-30    https://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux#Product_life_cycle
+Centos 5                    2.4.3           2017-03-31    https://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux#Product_life_cycle
+Centos 6                    2.6.6           2020-11-30    https://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux#Product_life_cycle
 
 openSUSE 12.02              2.7.3           2014-03
 
