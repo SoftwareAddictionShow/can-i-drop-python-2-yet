@@ -2,7 +2,7 @@
 Shows which operating systems have python 2 by default
 
 ```
-Smallest Python version as of October 18 2013
+Smallest Python version as of Jan 2016
 
 OS                          Python          Supported Until
 ------------------------------------------------------------------------------
