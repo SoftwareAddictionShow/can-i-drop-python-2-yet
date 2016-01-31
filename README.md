@@ -11,8 +11,9 @@ Ubuntu 14.04 LTS            2.7.5           2019-04    http://packages.ubuntu.co
 Ubuntu 15.10                2.7.9           2016-07    http://packages.ubuntu.com/wily/python
 Ubuntu 16.04 LTS            2.7.11          2021-04    http://packages.ubuntu.com/xenial/python
 
-Debian 6.0 Squeeze          2.6.6           2014-05
-Debian 7.0 Wheezy           2.7.3           Undecided
+
+Debian 7.0 Wheezy           2.7.3           2018-05    https://packages.debian.org/wheezy/python
+Debian 8.0 Jessie           2.7.9           2020-05    https://packages.debian.org/jessie/python
 
 Fedora 18                   2.7.3           2014-2
 Fedora 19                   2.7.5           2014-8
@@ -39,7 +40,7 @@ Open Indiana Alpha 151a8    2.6.4           Not yet released
 
 http://en.wikipedia.org/wiki/Ubuntu_%28operating_system%29#Releases
 
-http://en.wikipedia.org/wiki/Debian#Releases
+https://en.wikipedia.org/wiki/List_of_Debian_releases#Release_table
 
 http://en.wikipedia.org/wiki/Fedora_%28operating_system%29#Version_history
 
