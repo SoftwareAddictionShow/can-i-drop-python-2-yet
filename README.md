@@ -39,6 +39,8 @@ Haiku R1 Alpha 4            2.6.8           Not yet released
 Open Indiana Alpha 151a8    2.6.4           Not yet released
 ```
 
+https://hg.python.org/peps/rev/76d43e52d978
+
 http://en.wikipedia.org/wiki/Ubuntu_%28operating_system%29#Releases
 
 https://en.wikipedia.org/wiki/List_of_Debian_releases#Release_table
