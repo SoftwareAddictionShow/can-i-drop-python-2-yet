@@ -6,11 +6,9 @@ Smallest Python version as of October 18 2013
 
 OS                          Python          Supported Until
 ------------------------------------------------------------------------------
-Ubuntu 10.04 LTS            2.6.5           2015-04
-Ubuntu 12.04 LTS            2.7.4           2017-04
-Ubuntu 12.10                2.7.3           2014-04
-Ubuntu 13.04                2.7.4           2014-01
-Ubuntu 13.10                2.7.5           2014-07
+Ubuntu 12.04 LTS            2.7.4           2017-04    http://packages.ubuntu.com/precise/python
+Ubuntu 14.04 LTS            2.7.5           2019-04    http://packages.ubuntu.com/trusty/python
+Ubuntu 15.10                2.7.9           2016-07    http://packages.ubuntu.com/wily/python
 
 Debian 6.0 Squeeze          2.6.6           2014-05
 Debian 7.0 Wheezy           2.7.3           Undecided
