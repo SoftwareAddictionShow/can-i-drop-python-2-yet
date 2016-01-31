@@ -42,9 +42,10 @@ http://en.wikipedia.org/wiki/Ubuntu_%28operating_system%29#Releases
 https://en.wikipedia.org/wiki/List_of_Debian_releases#Release_table
 
 https://en.wikipedia.org/wiki/List_of_Fedora_releases#Version_history
+
 https://fedoraproject.org/wiki/Fedora_Release_Life_Cycle#Maintenance_Schedule
 
-http://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux#Life-cycle_dates
+https://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux#Product_life_cycle
 
 http://en.wikipedia.org/wiki/Centos#Versioning
 
